@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hi {},
+    START_TEXT = """Здравствуйте {},
 I'm All URL Uploader!
 Привет, при помощи этого бота вы сможете скачать с Instagram, YouTube, TikTok и т.д.
 Support Sites <a href="https://ytdl-org.github.io/youtube-dl/supportedsites.html">HERE</a>
